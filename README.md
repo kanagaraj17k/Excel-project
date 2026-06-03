@@ -13,3 +13,4 @@ Analyzed telecom customer data to identify churn indicators and customer behavio
 - Analyzed customer churn indicators using summarized metrics
 - Designed interactive Excel dashboard for operational reporting
 - 
+
